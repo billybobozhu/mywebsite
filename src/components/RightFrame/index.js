@@ -38,30 +38,30 @@ class RightFrame extends React.Component {
 
 
                 </Card>
-                <Card title="广告" hoverable={true} className="card"  cover={<img src={require('../../img/ad2.jpg')} />}>
-                    <div>
-                        <p className="abstract1"> 联系方式 </p>
-                    </div>
+                {/*<Card title="广告" hoverable={true} className="card"  cover={<img src={require('../../img/ad2.jpg')} />}>*/}
+                {/*    <div>*/}
+                {/*        <p className="abstract1"> 联系方式 </p>*/}
+                {/*    </div>*/}
 
-                    <Tooltip
-                        title={
-                            <img
-                                className="wx"
-                                src={require('../../img/wechatad.jpg')}
-                                alt="微信"
-                                width={200}
-                                height={200}
+                {/*    <Tooltip*/}
+                {/*        title={*/}
+                {/*            <img*/}
+                {/*                className="wx"*/}
+                {/*                src={require('../../img/wechatad.jpg')}*/}
+                {/*                alt="微信"*/}
+                {/*                width={200}*/}
+                {/*                height={200}*/}
 
-                            />
-                        }
-                        >
+                {/*            />*/}
+                {/*        }*/}
+                {/*        >*/}
 
-                        <div>
-                            <p className="abstract1" > 这里是微信 </p>
-                        </div>
-                    </Tooltip>
+                {/*        <div>*/}
+                {/*            <p className="abstract1" > 这里是微信 </p>*/}
+                {/*        </div>*/}
+                {/*    </Tooltip>*/}
 
-                </Card>
+                {/*</Card>*/}
             </Row>
         );
     }
