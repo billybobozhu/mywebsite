@@ -54,7 +54,7 @@
     "react": "^16.3.2",
     "react-dev-utils": "^5.0.1",
     "react-dom": "^16.3.2",
-    "react-draft-wysiwyg": "^1.12.13",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-jinke-music-player": "^4.0.3",
     "react-open-weather": "^0.4.0",
     "react-redux": "^5.0.7",
